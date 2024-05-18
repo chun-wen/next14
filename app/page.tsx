@@ -4,7 +4,7 @@ import styles from './ui/home.module.css';
 import styles2 from './ui/home2.module.css';
 
 import Image from 'next/image';
-import { lusitana } from './ui/font';
+import { lusitana } from '@/app/ui/fonts';
 
 export default function Page() {
   return (
